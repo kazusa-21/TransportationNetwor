@@ -58,7 +58,7 @@ This repository is maintained by the Transportation Networks for Research Core T
   - [Hillel Bar-Gera](https://github.com/bargera)
   - [Elizabeth Sall](https://github.com/e-lo)
 
-This effort is also associated with the [TRB Network Modeling Committee](http://trb-networkmodeling.org/).  If you are interested in contributing in a more significant role, please get in touch.  Thanks!
+This effort is also associated with the [TRB Network Modeling Committee](https://trb-adb30.org/).  If you are interested in contributing in a more significant role, please get in touch.  Thanks!
 
 # Formats
 
@@ -128,24 +128,22 @@ destination# , OD flow ; …..
 
 # Other Related Projects 
   - [TRB Network Modeling Committee](https://trb-adb30.org/)
-  - Highway Assignment
-    - [InverseVIsTraffic](https://github.com/jingzbu/InverseVIsTraffic) is an open-source repository that implements some inverse Variational Inequality (VI) formulations proposed for both single-class and multi-class transportation networks. The package also implements algorithms to evaluate the Price of Anarchy in real road networks. Currently, the package is maintained by [Jing Zhang](http://people.bu.edu/jzh).
-    - [Frank-Wolfe algorithm](http://www.bgu.ac.il/~bargera/tntp/FW.zip) that demonstrates how to read these 
+  - [InverseVIsTraffic](https://github.com/jingzbu/InverseVIsTraffic) is an open-source repository that implements some inverse Variational Inequality (VI) formulations proposed for both single-class and multi-class transportation networks. The package also implements algorithms to evaluate the Price of Anarchy in real road networks. Currently, the package is maintained by [Jing Zhang](http://people.bu.edu/jzh).
+  - [Frank-Wolfe algorithm](http://www.bgu.ac.il/~bargera/tntp/FW.zip) that demonstrates how to read these 
    data formats and runs a FW assignment.  The header file "stdafx.h" is for Microsoft Visual C (MSVC) compiler. On 
    Unix and other compilers it can be simply omitted.
-    - [Origin-Based Assignment (OBA) algorithm](http://www.openchannelsoftware.org/projects/Origin-Based_Assignment/)
-    - [seSue](http://people.sutd.edu.sg/~ugur_arikan/seSue/) is an open source tool to aid research on static path-based 
+  - [Origin-Based Assignment (OBA) algorithm](http://www.openchannelsoftware.org/projects/Origin-Based_Assignment/)
+  - [seSue](http://people.sutd.edu.sg/~ugur_arikan/seSue/) is an open source tool to aid research on static path-based 
    Stochastic User Equilibrium (SUE) models. It is designed to carry out experiments to analyze the effects of 
    (1) different path-based SUE models associated with different underlying discrete choice models 
    (as well as hybrid models), and (2) different route choice set generation algorithms on the route choice 
    probabilities and equilibrium link flows. For additional information, contact [Ugur Arikan](ugur_arikan@sutd.edu.sg)
-    - [TrafficAssignment.jl](https://github.com/chkwon/TrafficAssignment.jl) is an open-source, [Julia](http://www.julialang.org) package that implements some traffic assignment algorithms. It also loads the transportation network test problem data in vector/matrix forms. The packages is maintained by [Changhyun Kwon](http://www.chkwon.net).
-    - [DTALite-S](https://github.com/xzhou99/DTALite-S) - Simplified Version of DTALite for Education and Research
-    - [NeXTA](https://code.google.com/archive/p/nexta/) open-source GUI for visualizing static/dynamic traffic assignment results
-  - Transit
-    - [Transit Network Design Instances](https://github.com/RenatoArbex/TransitNetworkDesign) - transit network design instances for research repository
-    - [Fast-Trips](http://fast-trips.mtc.ca.gov/) - open source dynamic transit assignment software, data standards, and research project
-  - Data Schemas
-    - [AMS Data Hub](https://docs.google.com/document/d/1d1Zhnhm-QnCdOpqoe4-EO0U8I4ej17JprGbSgo0zNxU/edit) is an FHWA research project to develop a prototype data hub and data schema for transportation simulation models
-    - [GTFS-PLUS](https://github.com/osplanning-data-standards/GTFS-PLUS) -  GTFS-based data transit network data standard suitable for dynamic transit modeling
-    - [Open matrix](https://github.com/osPlanning/omx) - Open matrix standard for binary matrix data management that is supported by the major commercial travel demand modeling packages and includes code for R, Python, Java, C#, and C++.
+  - [TrafficAssignment.jl](https://github.com/chkwon/TrafficAssignment.jl) is an open-source, [Julia](http://www.julialang.org) package that implements some traffic assignment algorithms. It also loads the transportation network test problem data in vector/matrix forms. The packages is maintained by [Changhyun Kwon](http://www.chkwon.net).
+  - [DTALite-S](https://github.com/xzhou99/DTALite-S) - Simplified Version of DTALite for Education and Research
+  - [NeXTA](https://code.google.com/archive/p/nexta/) open-source GUI for visualizing static/dynamic traffic assignment results
+  - [Transit Network Design Instances](https://github.com/RenatoArbex/TransitNetworkDesign) - transit network design instances for research repository
+  - [Fast-Trips](http://fast-trips.mtc.ca.gov/) - open source dynamic transit assignment software, data standards, and research project
+  - [AMS Data Hub](https://docs.google.com/document/d/1d1Zhnhm-QnCdOpqoe4-EO0U8I4ej17JprGbSgo0zNxU/edit) is an FHWA research project to develop a prototype data hub and data schema for transportation simulation models
+  - [GTFS-PLUS](https://github.com/osplanning-data-standards/GTFS-PLUS) -  GTFS-based data transit network data standard suitable for dynamic transit modeling
+  - [Open matrix](https://github.com/osPlanning/omx) - Open matrix standard for binary matrix data management that is supported by the major commercial travel demand modeling packages and includes code for R, Python, Java, C#, and C++.
+  - [AequilibraE](http://www.aequilibrae.com/) - Python package for transportation modeling
