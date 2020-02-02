@@ -4,6 +4,7 @@
 <NUMBER OF LINKS> 75379													
 <END OF METADATA>													
 													
+													
 ~	from	to	total capacity	length (km)	fftt (min)	alpha	beta	ff speed (km/h)	critical speed (km/h)	lanes			
 	1	6706	2880	0.904	2.26	0.25	4	24	19.2	2	;		
 	2	33087	2880	0.027	0.07	0.25	4	24	19.2	2	;		
