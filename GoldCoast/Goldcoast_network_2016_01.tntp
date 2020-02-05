@@ -2,9 +2,11 @@
 <NUMBER OF NODES> 4807											
 <FIRST THRU NODE> 1069											
 <NUMBER OF LINKS> 11140											
+<ORIGINAL HEADER>~	from	to	capacity (per lane)	length (km)	fftt (min)	alpha	beta	ff speed (km/h)	critical speed (km/h)	lanes	
 <END OF METADATA>											
 											
-~	from	to	capacity (per lane)	length (km)	fftt (min)	alpha	beta	ff speed (km/h)	critical speed (km/h)	lanes	
+
+~ 	init_node	term_node	capacity	length	free_flow_time	b	power	speed 	critical_speed	lanes	;
 	1	1371	900	0.300	0.327	0.282	4	55	42.9	2	;
 	2	2012	1600	0.260	0.173	0.282	4	90	70.2	2	;
 	3	2402	1100	0.200	0.200	0.282	4	60	46.8	2	;
