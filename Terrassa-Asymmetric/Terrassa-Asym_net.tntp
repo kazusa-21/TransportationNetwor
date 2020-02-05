@@ -6,7 +6,7 @@
 <END OF METADATA> ~	Init node	Term node	Capacity	Length	Free Flow Time	B	Power	Speed limit	Toll	Type	;	.
 
 
-~ 	init_node	term_node	capacity	length	free_flow_time	b	power	speed 	toll 	link_type	;
+~	init_node	term_node	capacity	length	free_flow_time	b	power	speed	toll	link_type	;
 	1	304	1.49999e+006	0.33	0.75	0.1	1.5	50	0	1;
 	1	425	1.49999e+006	0.32	0.75	0.1	1.5	80	0	1;
 	1	513	1.49999e+006	0.11	0.75	0.1	1.5	100	0	1;

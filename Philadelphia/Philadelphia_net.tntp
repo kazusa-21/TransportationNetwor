@@ -6,7 +6,7 @@
 <ORIGINAL HEADER>~	from	to	capacity	length	ftime	B	Power	speed	toll	type	
 <END OF METADATA>									  		
 
-~ 	init_node	term_node	capacity	length	free_flow_time	b	power	speed 	toll 	link_type	;
+~	init_node	term_node	capacity	length	free_flow_time	b	power	speed	toll	link_type	;
 	1	4067	999999	0.12	0	0.15	4	0.4	0	7	;
 	1	4073	999999	0.12	0	0.15	4	0.4	0	7	;
 	1	4075	999999	0.12	0	0.15	4	0.4	0	7	;
