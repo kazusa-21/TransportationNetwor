@@ -1,11 +1,12 @@
 <NUMBER OF ZONES> 3264													
 <NUMBER OF NODES> 33113													
 <FIRST THRU NODE> 3265													
-<NUMBER OF LINKS> 75379													
+<NUMBER OF LINKS> 75379
+<ORIGINAL HEADER>~	from	to	total capacity	length (km)	fftt (min)	alpha	beta	ff speed (km/h)	critical speed (km/h)	lanes			
 <END OF METADATA>													
 													
-													
-~	from	to	total capacity	length (km)	fftt (min)	alpha	beta	ff speed (km/h)	critical speed (km/h)	lanes			
+
+~ 	init_node	term_node	capacity	length	free_flow_time	b	power	speed 	critical_speed	lanes	;
 	1	6706	2880	0.904	2.26	0.25	4	24	19.2	2	;		
 	2	33087	2880	0.027	0.07	0.25	4	24	19.2	2	;		
 	3	30799	2880	0.257	0.64	0.25	4	24	19.2	2	;		
