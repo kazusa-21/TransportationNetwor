@@ -97,34 +97,42 @@ TNTP is tab delimited text files, with each row terminated by a semicolon.  The 
 Origin origin#
 destination# , OD flow ; …..
 ```
+## Import scripts
 
+The networks' formatting has been harmonized to facilitate programatic imports, and import scripts are provided inside the folder **_scripts**:
+
+| Language     |Format               | Networks                      | Trip matrix              |
+| ---          |---                  | ---                           | ---                      |
+| Python       | Jupyter Notebook    | Instructions on using Pandas  | Code to import into OMX  |
 
 # Summary of Networks
 
-| Network                                            | Zones | Links  | Nodes  |
-| ---                                                | ---   | ---    | ---    |
-| Anaheim                                            |    38 |    914 |    416 |
-| Austin                                             |  7388 |  18961 |   7388 |
-| Barcelona                                          |   110 |   2522 |   1020 |
-| Berlin-Center                                      |   865 |  28376 |  12981 |
-| Berlin-Friedrichshain                              |    23 |    523 |    224 |
-| Berlin-Mitte-Center                                |    36 |    871 |    398 |
-| Berlin-Mitte-Prenzlauerberg-Friedrichshain-Center  |    98 |   2184 |    975 |
-| Berlin-Prenzlauerberg-Center                       |    38 |    749 |    352 |
-| Berlin-Tiergarten                                  |    26 |    766 |    361 |
-| Birmingham-England                                 |   898 |  33937 |  14639 |
-| Braess-Example                                     |     2 |      5 |      4 |
-| Chicago-Sketch                                     |   387 |   2950 |    933 |
-| Eastern-Massachusetts                              |    74 |    258 |     74 |
-| GoldCoast, Australia                               |  1068 |  11140 |   4807 |
-| Hessen-Asymmetric                                  |   245 |   6674 |   4660 |
-| Philadelphia                                       |  1525 |  40003 |  13389 |
-| SiouxFalls                                         |    24 |     76 |     24 |
-| Sydney, Australia                                  |  3264 |  75379 |  33837 |
-| Terrassa-Asymmetric                                |    55 |   3264 |   1609 |
-| Winnipeg                                           |   147 |   2836 |   1052 |
-| Winnipeg-Asymmetric                                |   154 |   2535 |   1057 |
-| chicago-regional                                   |  1790 |  39018 |  12982 |
+| Network                                            | Zones | Links  | Nodes  | Compatible with provided scripts |
+| ---                                                | ---   | ---    | ---    | ---                              |
+| Anaheim                                            |    38 |    914 |    416 | Yes                              |
+| Austin                                             |  7388 |  18961 |   7388 | Yes                              |
+| Barcelona                                          |   110 |   2522 |   1020 | Yes                              |
+| Berlin-Center                                      |   865 |  28376 |  12981 | Yes                              |
+| Berlin-Friedrichshain                              |    23 |    523 |    224 | Yes                              |
+| Berlin-Mitte-Center                                |    36 |    871 |    398 | Yes                              |
+| Berlin-Mitte-Prenzlauerberg-Friedrichshain-Center  |    98 |   2184 |    975 | Yes                              |
+| Berlin-Prenzlauerberg-Center                       |    38 |    749 |    352 | Yes                              |
+| Berlin-Tiergarten                                  |    26 |    766 |    361 | Yes                              |
+| Birmingham-England                                 |   898 |  33937 |  14639 | Yes                              |
+| Braess-Example                                     |     2 |      5 |      4 | Yes                              |
+| chicago-regional                                   |  1790 |  39018 |  12982 | Yes                              |
+| Chicago-Sketch                                     |   387 |   2950 |    933 | Yes                              |
+| Eastern-Massachusetts                              |    74 |    258 |     74 | Yes                              |
+| GoldCoast, Australia                               |  1068 |  11140 |   4807 | Yes                              |
+| Hessen-Asymmetric                                  |   245 |   6674 |   4660 | Yes                              |
+| Philadelphia                                       |  1525 |  40003 |  13389 | Yes                              |
+| SiouxFalls                                         |    24 |     76 |     24 | Yes                              |
+| Sydney, Australia                                  |  3264 |  75379 |  33837 | Yes                              |
+| Symmetrica Transportation Electrification          |  N.A. |   624  |    169 | No. Not in the TNTP format       |
+| Terrassa-Asymmetric                                |    55 |   3264 |   1609 | Yes                              |
+| Winnipeg                                           |   147 |   2836 |   1052 | Yes                              |
+| Winnipeg-Asymmetric                                |   154 |   2535 |   1057 | Yes                              |
+
 
 # Other Related Projects 
   - [TRB Network Modeling Committee](https://trb-adb30.org/)
