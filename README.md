@@ -134,7 +134,8 @@ The networks' formatting has been harmonized to facilitate programatic imports, 
 | Winnipeg                                           |   147 |   2836 |   1052 | Yes                              |
 | Winnipeg-Asymmetric                                |   154 |   2535 |   1057 | Yes                              |
 
-# References
+# Publications
+A partial list of publications where datasets from this repository have been used. All website users are kindly requested to add their publications to this list.
   - Bar-Gera, H.(2002), Origin-based algorithm for the traffic assignment problem, Transportation Science 36(4), 398-417.
 Bar-Gera, H. & Boyce, D. (2003), Origin-based algorithms for combined travel forecasting models, Transportation Research Part B - Methodological  37 (5), 405-422.
   - Boyce, D. & Bar-Gera, H. (2003), Validation of urban travel forecasting models combining origin-destination, mode and route choices, Journal of Regional Science, 43, 517-540.
