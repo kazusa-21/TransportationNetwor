@@ -156,7 +156,6 @@ Bar-Gera, H. & Boyce, D. (2003), Origin-based algorithms for combined travel for
   - [Frank-Wolfe algorithm](http://www.bgu.ac.il/~bargera/tntp/FW.zip) that demonstrates how to read these
    data formats and runs a FW assignment.  The header file "stdafx.h" is for Microsoft Visual C (MSVC) compiler. On
    Unix and other compilers it can be simply omitted.
-  - [Origin-Based Assignment (OBA) algorithm](http://www.openchannelsoftware.org/projects/Origin-Based_Assignment/)
   - [seSue](http://people.sutd.edu.sg/~ugur_arikan/seSue/) is an open source tool to aid research on static path-based
    Stochastic User Equilibrium (SUE) models. It is designed to carry out experiments to analyze the effects of
    (1) different path-based SUE models associated with different underlying discrete choice models
