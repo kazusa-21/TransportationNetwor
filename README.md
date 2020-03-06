@@ -134,6 +134,21 @@ The networks' formatting has been harmonized to facilitate programatic imports, 
 | Winnipeg                                           |   147 |   2836 |   1052 | Yes                              |
 | Winnipeg-Asymmetric                                |   154 |   2535 |   1057 | Yes                              |
 
+# References
+  - Bar-Gera, H.(2002), Origin-based algorithm for the traffic assignment problem, Transportation Science 36(4), 398-417.
+Bar-Gera, H. & Boyce, D. (2003), Origin-based algorithms for combined travel forecasting models, Transportation Research Part B - Methodological  37 (5), 405-422.
+  - Boyce, D. & Bar-Gera, H. (2003), Validation of urban travel forecasting models combining origin-destination, mode and route choices, Journal of Regional Science, 43, 517-540.
+  - Boyce, D., Ralevic-Dekic, B. & Bar-Gera, H. (2004), Convergence of Traffic Assignments: How Much Is Enough? The Delaware Valley Region Case Study, ASCE Journal of Transportation Engineering, 130 (1), 49-55.
+  - Boyce, D. & Bar-Gera, H. (2004), Multiclass Combined Models for Urban Travel Forecasting, Networks and Spatial Economics, 4 (1), 115-124.
+  - Bar-Gera, H. & Boyce D. (2006), Solving a non-convex combined travel forecasting model by the Method of Successive Averages with constant step sizes, Transportation Research Part B - Methodological, 40 (5), 351-367.
+  - Bar-Gera, H. (2006), Primal Method for Determining the Most Likely Route Flows in Large Road Networks, Transportation Science, 40 (3), 269-286.
+  - Bar-Gera, H., Mirchandani, P.B. & Wu, F.ST (2006), Evaluating the assumption of independent turning probabilities, Transportation Research Part B - Methodological, 40 (10), 903-916.
+  - Bar-Gera, H. & Luzon, A. (2007), Differences among route flow solutions for the user-equilibrium traffic assignment problem, ASCE Journal of Transportation Engineering, 133 (4), 232-239.
+  - Bar-Gera, H. & Luzon, A. (2007), Non-unique route flow solutions for user-equilibrium assignments. Traffic Engineering and Control, 48 (9), 408-412.
+  - Bar-Gera, H. (2010), Traffic assignment by paired alternative segments, Transportation Research Part B - Methodological, 44 (8-9), 1022-1046.
+  - Bar-Gera, H., Boyce, D. & Nie, Y. (2012), User-equilibrium route flows and the condition of proportionality. Transportation Research Part B - Methodological 46 (3), 440–462.
+  - Bar-Gera, H., Hellman, F. & Patriksson, M. (2013), Efficient design and pricing of equilibrium traffic networks precise calculations of equilibria and sensitivities. Transportation Research Part B - Methodological, 57, 485-500.
+  - Rey, D.PI, Bar-Gera, H.PI, Dixit, V.PI, Waller, S.T.PI (2019). A Branch and Price Algorithm for the Work-zone Scheduling Problem. Accepted for publication in Transportation Science.
 
 # Other Related Projects
   - [TRB Network Modeling Committee](https://trb-adb30.org/)
