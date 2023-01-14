@@ -58,7 +58,7 @@ This repository is maintained by the Transportation Networks for Research Core T
   - [Hillel Bar-Gera](https://github.com/bargera)
   - [Elizabeth Sall](https://github.com/e-lo)
 
-This effort is also associated with the [TRB Network Modeling Committee](https://trb-adb30.org/).  If you are interested in contributing in a more significant role, please get in touch.  Thanks!
+This effort is also associated with the [TRB Network Modeling Committee](https://trb-aep40.org).  If you are interested in contributing in a more significant role, please get in touch.  Thanks!
 
 # Formats
 
